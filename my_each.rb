@@ -9,6 +9,3 @@ def my_each(array)
 end
 
 words(['hi', 'hello', 'bye', 'goodbye']) do |greeting|
-
-
-   
