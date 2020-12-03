@@ -10,4 +10,4 @@ else
   puts "This block should not run"
 end
 
-words(['hi', 'hello', 'bye', 'goodbye']) do |greeting|
+my_each([1, 2, 3, 4]) do |word|
