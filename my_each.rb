@@ -7,3 +7,7 @@ def my_each(array)
   end
   array
 end
+
+words(['hi', 'hello', 'bye', 'goodbye']) do |greeting|
+
+   
